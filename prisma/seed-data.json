@@ -1,0 +1,1883 @@
+{
+  "config": {
+    "name": "Tetra Mack & Co",
+    "tagline": "Asian Fusion Food — Chef Gourmet",
+    "intro": "Une cuisine qui fait dialoguer les traditions d'Asie avec les produits du marché français. Le chef compose des assiettes précises, parfumées, pensées comme des voyages courts entre Tokyo, Bangkok et Reims.",
+    "story": "Tetra Mack & Co est né d'une conviction simple : la cuisine asiatique gagne à être racontée avec des produits d'ici. En cuisine, le chef marie techniques japonaises, épices thaïes et gestes cantonais, toujours au service du produit de saison. La salle, sobre et chaleureuse, prolonge cette idée d'un équilibre entre rigueur et générosité.",
+    "address": "6 Avenue de Laon, 51100 Reims",
+    "phone": "03 51 24 73 51",
+    "email": "contact@tetramack-restaurant.fr",
+    "hours": "Lundi, Mardi, Jeudi, Vendredi, Samedi : 11h30 – 14h30 / 19h00 – 22h00\nMercredi et Dimanche : Fermé",
+    "instagramUrl": "https://instagram.com/",
+    "facebookUrl": "https://facebook.com/",
+    "orderUrl": "",
+    "halalNote": "Toutes nos viandes sont halal.",
+    "adminPassword": "tetramack2026"
+  },
+  "categories": [
+    {
+      "id": "cat_mt7et7od_0fv6mo",
+      "name": "Entrées & Accompagnements",
+      "nameEn": "Starters & Sides",
+      "parentId": null,
+      "order": 0
+    },
+    {
+      "id": "cat_mt7et7od_f30wa3",
+      "name": "Sashimi",
+      "nameEn": "Sashimi",
+      "parentId": null,
+      "order": 1
+    },
+    {
+      "id": "cat_mt7et7od_kv32a2",
+      "name": "Spring Rolls",
+      "nameEn": "Spring Rolls",
+      "parentId": null,
+      "order": 2
+    },
+    {
+      "id": "cat_mt7et7od_nqq5g2",
+      "name": "Assortiments Rolls",
+      "nameEn": "Roll Assortments",
+      "parentId": null,
+      "order": 3
+    },
+    {
+      "id": "cat_mt7et7od_mjxdqm",
+      "name": "Plateaux Medium",
+      "nameEn": "Medium Platters",
+      "parentId": null,
+      "order": 4
+    },
+    {
+      "id": "cat_mt7et7od_xs5227",
+      "name": "Asian Fusion",
+      "nameEn": "Asian Fusion",
+      "parentId": null,
+      "order": 5
+    },
+    {
+      "id": "cat_mt7et7od_m8nb39",
+      "name": "Rolls",
+      "nameEn": "Rolls",
+      "parentId": null,
+      "order": 6
+    },
+    {
+      "id": "cat_mt7et7od_82betz",
+      "name": "California Rolls (9 pièces)",
+      "nameEn": "California Rolls (9 pieces)",
+      "parentId": "cat_mt7et7od_m8nb39",
+      "order": 0
+    },
+    {
+      "id": "cat_mt7et7od_97ap8v",
+      "name": "Signature Rolls (8 pièces)",
+      "nameEn": "Signature Rolls (8 pieces)",
+      "parentId": "cat_mt7et7od_m8nb39",
+      "order": 1
+    },
+    {
+      "id": "cat_mt7et7od_9l9sxv",
+      "name": "Chirashi & Poke",
+      "nameEn": "Chirashi & Poke",
+      "parentId": null,
+      "order": 7
+    },
+    {
+      "id": "cat_mt7et7od_137lpv",
+      "name": "À partager",
+      "nameEn": "To Share",
+      "parentId": "cat_mt7et7od_9l9sxv",
+      "order": 0
+    },
+    {
+      "id": "cat_mt7et7od_i6q56m",
+      "name": "Desserts",
+      "nameEn": "Desserts",
+      "parentId": null,
+      "order": 8
+    },
+    {
+      "id": "cat_mt7et7od_rj2nj8",
+      "name": "Boissons",
+      "nameEn": "Drinks",
+      "parentId": null,
+      "order": 9
+    },
+    {
+      "id": "cat_mt7et7od_wxqzdi",
+      "name": "Alcools",
+      "nameEn": "Alcoholic Drinks",
+      "parentId": "cat_mt7et7od_rj2nj8",
+      "order": 0
+    },
+    {
+      "id": "cat_mt7et7od_8bvmk0",
+      "name": "Soft",
+      "nameEn": "Soft Drinks",
+      "parentId": "cat_mt7et7od_rj2nj8",
+      "order": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "item_mt7et7oe_jgvjrf",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Salade Calamar",
+      "nameEn": "Squid Salad",
+      "description": "Calamars marinés et salade fraîche, assaisonnement asiatique.",
+      "descriptionEn": "Marinated squid with fresh salad, Asian-style dressing.",
+      "ingredients": [
+        "Calamar",
+        "Salade",
+        "Vinaigrette asiatique"
+      ],
+      "ingredientsEn": [
+        "Squid",
+        "Salad",
+        "Asian dressing"
+      ],
+      "allergens": [
+        "mollusques"
+      ],
+      "price": "6,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_xjxexr",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Salade Algue",
+      "nameEn": "Seaweed Salad",
+      "description": "Salade d'algues wakamé, sésame et vinaigrette légère.",
+      "descriptionEn": "Wakame seaweed salad with sesame and a light dressing.",
+      "ingredients": [
+        "Algues wakamé",
+        "Sésame",
+        "Vinaigrette"
+      ],
+      "ingredientsEn": [
+        "Wakame seaweed",
+        "Sesame",
+        "Dressing"
+      ],
+      "allergens": [
+        "sesame"
+      ],
+      "price": "5,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_3sy9aa",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Edamame",
+      "nameEn": "",
+      "description": "Fèves de soja vapeur, fleur de sel.",
+      "descriptionEn": "Steamed edamame beans, sea salt.",
+      "ingredients": [
+        "Edamame",
+        "Fleur de sel"
+      ],
+      "ingredientsEn": [
+        "Edamame",
+        "Sea salt"
+      ],
+      "allergens": [
+        "soja"
+      ],
+      "price": "4,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_pez1ak",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Salade Choux",
+      "nameEn": "Cabbage Salad",
+      "description": "Chou finement émincé, sauce sésame maison.",
+      "descriptionEn": "Finely shredded cabbage with homemade sesame sauce.",
+      "ingredients": [
+        "Chou",
+        "Sauce sésame"
+      ],
+      "ingredientsEn": [
+        "Cabbage",
+        "Sesame sauce"
+      ],
+      "allergens": [
+        "sesame"
+      ],
+      "price": "3,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_cpslyo",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Soupe Miso",
+      "nameEn": "Miso Soup",
+      "description": "Bouillon miso traditionnel, tofu et algue wakamé.",
+      "descriptionEn": "Traditional miso broth with tofu and wakame seaweed.",
+      "ingredients": [
+        "Miso",
+        "Tofu",
+        "Algue wakamé",
+        "Oignon nouveau"
+      ],
+      "ingredientsEn": [
+        "Miso",
+        "Tofu",
+        "Wakame seaweed",
+        "Spring onion"
+      ],
+      "allergens": [
+        "soja"
+      ],
+      "price": "3,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_ctvoa9",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Riz Nature",
+      "nameEn": "Plain Rice",
+      "description": "Riz japonais vapeur nature.",
+      "descriptionEn": "Steamed Japanese rice.",
+      "ingredients": [
+        "Riz"
+      ],
+      "ingredientsEn": [
+        "Rice"
+      ],
+      "allergens": [],
+      "price": "3,00",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_xda54r",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Riz Vinaigré",
+      "nameEn": "Vinegared Rice",
+      "description": "Riz vinaigré façon sushi.",
+      "descriptionEn": "Sushi-style vinegared rice.",
+      "ingredients": [
+        "Riz",
+        "Vinaigre de riz"
+      ],
+      "ingredientsEn": [
+        "Rice",
+        "Rice vinegar"
+      ],
+      "allergens": [],
+      "price": "3,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_xddi5l",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Nem Crevette (x4)",
+      "nameEn": "Shrimp Spring Rolls (x4)",
+      "description": "Nems croustillants à la crevette, servis avec sauce nuoc-mâm.",
+      "descriptionEn": "Crispy shrimp spring rolls, served with nuoc-mâm sauce.",
+      "ingredients": [
+        "Crevette",
+        "Galette de riz",
+        "Vermicelles",
+        "Sauce nuoc-mâm"
+      ],
+      "ingredientsEn": [
+        "Shrimp",
+        "Rice paper",
+        "Vermicelli",
+        "Nuoc-mâm sauce"
+      ],
+      "allergens": [
+        "crustaces",
+        "gluten"
+      ],
+      "price": "5,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_ej07z1",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Nem Poulet (x4)",
+      "nameEn": "Chicken Spring Rolls (x4)",
+      "description": "Nems croustillants au poulet et légumes.",
+      "descriptionEn": "Crispy chicken and vegetable spring rolls.",
+      "ingredients": [
+        "Poulet",
+        "Galette de riz",
+        "Vermicelles",
+        "Légumes"
+      ],
+      "ingredientsEn": [
+        "Chicken",
+        "Rice paper",
+        "Vermicelli",
+        "Vegetables"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "price": "6,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_hxnk5v",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Samoussa Poulet (x4)",
+      "nameEn": "Chicken Samosas (x4)",
+      "description": "Samoussas croustillants farcis au poulet épicé.",
+      "descriptionEn": "Crispy samosas filled with spiced chicken.",
+      "ingredients": [
+        "Poulet",
+        "Pâte à samoussa",
+        "Épices"
+      ],
+      "ingredientsEn": [
+        "Chicken",
+        "Samosa pastry",
+        "Spices"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "price": "6,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_66y8j9",
+      "categoryId": "cat_mt7et7od_0fv6mo",
+      "name": "Salade Cambodgienne",
+      "nameEn": "Cambodian Salad",
+      "description": "Salade composée à la cambodgienne, bœuf ou crevette, herbes fraîches et cacahuètes.",
+      "descriptionEn": "Cambodian-style salad with beef or shrimp, fresh herbs and peanuts.",
+      "ingredients": [
+        "Bœuf ou crevette",
+        "Herbes fraîches",
+        "Cacahuètes",
+        "Vermicelles"
+      ],
+      "ingredientsEn": [
+        "Beef or shrimp",
+        "Fresh herbs",
+        "Peanuts",
+        "Vermicelli"
+      ],
+      "allergens": [
+        "arachides",
+        "crustaces"
+      ],
+      "price": "12,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_1lu7tc",
+      "categoryId": "cat_mt7et7od_f30wa3",
+      "name": "Sashimi (10 pièces)",
+      "nameEn": "",
+      "description": "Assortiment de sashimi du jour, poissons crus tranchés finement.",
+      "descriptionEn": "Chef's selection of the day's sashimi, thinly sliced raw fish.",
+      "ingredients": [
+        "Poisson cru du jour"
+      ],
+      "ingredientsEn": [
+        "Raw fish of the day"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "15,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_95gj25",
+      "categoryId": "cat_mt7et7od_f30wa3",
+      "name": "Saumon Nikkei (10 pièces)",
+      "nameEn": "",
+      "description": "Sashimi de saumon façon nikkei, touche citronnée et relevée.",
+      "descriptionEn": "Nikkei-style salmon sashimi, with a citrusy, spiced touch.",
+      "ingredients": [
+        "Saumon",
+        "Citron vert",
+        "Piment"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Lime",
+        "Chili"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "16,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_i01l0t",
+      "categoryId": "cat_mt7et7od_kv32a2",
+      "name": "Saumon",
+      "nameEn": "Salmon",
+      "description": "Rouleau de printemps frais au saumon, avocat et herbes fraîches.",
+      "descriptionEn": "Fresh spring roll with salmon, avocado and fresh herbs.",
+      "ingredients": [
+        "Saumon",
+        "Avocat",
+        "Laitue",
+        "Coriandre",
+        "Menthe"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Avocado",
+        "Lettuce",
+        "Coriander",
+        "Mint"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_gprqyv",
+      "categoryId": "cat_mt7et7od_kv32a2",
+      "name": "Fried Chicken",
+      "nameEn": "",
+      "description": "Rouleau de printemps frais au poulet croustillant, mayonnaise japonaise.",
+      "descriptionEn": "Fresh spring roll with crispy chicken and Japanese mayonnaise.",
+      "ingredients": [
+        "Poulet frit",
+        "Avocat",
+        "Laitue",
+        "Mayonnaise japonaise"
+      ],
+      "ingredientsEn": [
+        "Fried chicken",
+        "Avocado",
+        "Lettuce",
+        "Japanese mayonnaise"
+      ],
+      "allergens": [
+        "gluten",
+        "oeufs"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_kjphqb",
+      "categoryId": "cat_mt7et7od_kv32a2",
+      "name": "Thon Cuit",
+      "nameEn": "Cooked Tuna",
+      "description": "Rouleau de printemps frais au thon cuit et menthe fraîche.",
+      "descriptionEn": "Fresh spring roll with cooked tuna and fresh mint.",
+      "ingredients": [
+        "Thon cuit",
+        "Avocat",
+        "Laitue",
+        "Menthe"
+      ],
+      "ingredientsEn": [
+        "Cooked tuna",
+        "Avocado",
+        "Lettuce",
+        "Mint"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_bitswn",
+      "categoryId": "cat_mt7et7od_kv32a2",
+      "name": "Veggie",
+      "nameEn": "",
+      "description": "Rouleau de printemps frais végétarien, avocat et fromage frais.",
+      "descriptionEn": "Vegetarian fresh spring roll with avocado and cream cheese.",
+      "ingredients": [
+        "Avocat",
+        "Fromage frais",
+        "Laitue"
+      ],
+      "ingredientsEn": [
+        "Avocado",
+        "Cream cheese",
+        "Lettuce"
+      ],
+      "allergens": [
+        "lait"
+      ],
+      "price": "9,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_qik0ef",
+      "categoryId": "cat_mt7et7od_kv32a2",
+      "name": "Endive Rouge",
+      "nameEn": "Red Chicory",
+      "description": "Rouleau de printemps frais au saumon et endive rouge, coriandre.",
+      "descriptionEn": "Fresh spring roll with salmon, red endive and coriander.",
+      "ingredients": [
+        "Saumon",
+        "Endive rouge",
+        "Coriandre"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Red endive",
+        "Coriander"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_zlizno",
+      "categoryId": "cat_mt7et7od_kv32a2",
+      "name": "Crevette Tempura",
+      "nameEn": "Tempura Shrimp",
+      "description": "Rouleau de printemps frais à la crevette tempura, sauce épicée.",
+      "descriptionEn": "Fresh spring roll with tempura shrimp and spicy sauce.",
+      "ingredients": [
+        "Crevette tempura",
+        "Avocat",
+        "Laitue",
+        "Sauce épicée"
+      ],
+      "ingredientsEn": [
+        "Tempura shrimp",
+        "Avocado",
+        "Lettuce",
+        "Spicy sauce"
+      ],
+      "allergens": [
+        "crustaces",
+        "gluten"
+      ],
+      "price": "11,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_oee8yk",
+      "categoryId": "cat_mt7et7od_nqq5g2",
+      "name": "Mix California",
+      "nameEn": "",
+      "description": "Assortiment de 9 pièces : 3 California saumon, 3 California thon cuit, 3 California poulet.",
+      "descriptionEn": "Assortment of 9 pieces: 3 salmon, 3 cooked tuna and 3 chicken California rolls.",
+      "ingredients": [
+        "Saumon",
+        "Thon cuit",
+        "Poulet",
+        "Riz vinaigré",
+        "Nori"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Cooked tuna",
+        "Chicken",
+        "Vinegared rice",
+        "Nori"
+      ],
+      "allergens": [
+        "poissons",
+        "gluten"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_ya7it0",
+      "categoryId": "cat_mt7et7od_nqq5g2",
+      "name": "Demi Just Salmon",
+      "nameEn": "Half Just Salmon",
+      "description": "Assortiment de 9 pièces autour du saumon : California, spring et sushi saumon.",
+      "descriptionEn": "9-piece salmon assortment: California, spring and sushi rolls.",
+      "ingredients": [
+        "Saumon",
+        "Riz vinaigré",
+        "Nori",
+        "Galette de riz"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Vinegared rice",
+        "Nori",
+        "Rice paper"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_fh3zs6",
+      "categoryId": "cat_mt7et7od_nqq5g2",
+      "name": "Lol Fondant (6 pièces)",
+      "nameEn": "Melting Rolls (6 pieces)",
+      "description": "Rolls fondants au fromage frais, saumon et piment.",
+      "descriptionEn": "Melting rolls with cream cheese, salmon and chili.",
+      "ingredients": [
+        "Saumon",
+        "Fromage frais",
+        "Piment",
+        "Riz vinaigré"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Cream cheese",
+        "Chili",
+        "Vinegared rice"
+      ],
+      "allergens": [
+        "poissons",
+        "lait"
+      ],
+      "price": "8,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_ow64e4",
+      "categoryId": "cat_mt7et7od_mjxdqm",
+      "name": "Salmon Classic (8 pièces)",
+      "nameEn": "",
+      "description": "Plateau de 8 rolls saumon, l'incontournable.",
+      "descriptionEn": "Platter of 8 salmon rolls, the classic favourite.",
+      "ingredients": [
+        "Saumon",
+        "Riz vinaigré",
+        "Nori"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Vinegared rice",
+        "Nori"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "14,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_e3t3f9",
+      "categoryId": "cat_mt7et7od_mjxdqm",
+      "name": "Salmon Lovers (18 pièces)",
+      "nameEn": "",
+      "description": "Plateau généreux de 18 pièces 100% saumon.",
+      "descriptionEn": "Generous platter of 18 pieces, 100% salmon.",
+      "ingredients": [
+        "Saumon",
+        "Riz vinaigré",
+        "Nori"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Vinegared rice",
+        "Nori"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "17,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_eaaaon",
+      "categoryId": "cat_mt7et7od_mjxdqm",
+      "name": "Hyper Mix (18 pièces)",
+      "nameEn": "",
+      "description": "Plateau de 18 pièces, assortiment varié de la maison.",
+      "descriptionEn": "18-piece platter, the house's varied assortment.",
+      "ingredients": [
+        "Saumon",
+        "Thon",
+        "Poulet",
+        "Avocat",
+        "Riz vinaigré"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Tuna",
+        "Chicken",
+        "Avocado",
+        "Vinegared rice"
+      ],
+      "allergens": [
+        "poissons",
+        "gluten"
+      ],
+      "price": "17,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_xm2963",
+      "categoryId": "cat_mt7et7od_mjxdqm",
+      "name": "Hyper Salmon (24 pièces)",
+      "nameEn": "",
+      "description": "Grand plateau de 24 pièces autour du saumon.",
+      "descriptionEn": "Large 24-piece platter built around salmon.",
+      "ingredients": [
+        "Saumon",
+        "Riz vinaigré",
+        "Nori"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Vinegared rice",
+        "Nori"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "21,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_af37tu",
+      "categoryId": "cat_mt7et7od_mjxdqm",
+      "name": "Mix California (24 pièces)",
+      "nameEn": "",
+      "description": "Grand plateau de 24 California rolls variés.",
+      "descriptionEn": "Large platter of 24 assorted California rolls.",
+      "ingredients": [
+        "Saumon",
+        "Thon cuit",
+        "Poulet",
+        "Riz vinaigré"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Cooked tuna",
+        "Chicken",
+        "Vinegared rice"
+      ],
+      "allergens": [
+        "poissons",
+        "gluten"
+      ],
+      "price": "21,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_3b7tlp",
+      "categoryId": "cat_mt7et7od_mjxdqm",
+      "name": "Just Magic (24 pièces)",
+      "nameEn": "",
+      "description": "Grand plateau signature de 24 pièces, sélection du chef.",
+      "descriptionEn": "Large 24-piece signature platter, chef's selection.",
+      "ingredients": [
+        "Sélection du chef",
+        "Riz vinaigré",
+        "Nori"
+      ],
+      "ingredientsEn": [
+        "Chef's selection",
+        "Vinegared rice",
+        "Nori"
+      ],
+      "allergens": [
+        "poissons",
+        "crustaces"
+      ],
+      "price": "21,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_6ghmxa",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Bo Bun (poulet, bœuf ou crevette)",
+      "nameEn": "Bo Bun (chicken, beef or shrimp)",
+      "description": "Vermicelles de riz froids, crudités, herbes fraîches et viande ou crevette au choix.",
+      "descriptionEn": "Cold rice vermicelli, fresh vegetables, herbs and your choice of meat or shrimp.",
+      "ingredients": [
+        "Vermicelles de riz",
+        "Crudités",
+        "Poulet, bœuf ou crevette",
+        "Herbes fraîches",
+        "Nuoc-mâm"
+      ],
+      "ingredientsEn": [
+        "Rice vermicelli",
+        "Fresh vegetables",
+        "Chicken, beef or shrimp",
+        "Fresh herbs",
+        "Nuoc-mâm"
+      ],
+      "allergens": [
+        "crustaces",
+        "poissons"
+      ],
+      "price": "13,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_ew7zh4",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Nouille sauté bœuf",
+      "nameEn": "Stir-Fried Noodles with Beef",
+      "description": "Nouilles sautées au wok avec bœuf mariné et légumes.",
+      "descriptionEn": "Wok-fried noodles with marinated beef and vegetables.",
+      "ingredients": [
+        "Nouilles",
+        "Bœuf",
+        "Légumes",
+        "Sauce soja"
+      ],
+      "ingredientsEn": [
+        "Noodles",
+        "Beef",
+        "Vegetables",
+        "Soy sauce"
+      ],
+      "allergens": [
+        "gluten",
+        "soja"
+      ],
+      "price": "14,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_159lza",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Nouille sauté légume crevette",
+      "nameEn": "Stir-Fried Noodles with Vegetables & Shrimp",
+      "description": "Nouilles sautées au wok, légumes croquants et crevettes.",
+      "descriptionEn": "Wok-fried noodles with crunchy vegetables and shrimp.",
+      "ingredients": [
+        "Nouilles",
+        "Légumes",
+        "Crevette",
+        "Sauce soja"
+      ],
+      "ingredientsEn": [
+        "Noodles",
+        "Vegetables",
+        "Shrimp",
+        "Soy sauce"
+      ],
+      "allergens": [
+        "gluten",
+        "soja",
+        "crustaces"
+      ],
+      "price": "15,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_lbuuzo",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Rouleau Printemps Veggie",
+      "nameEn": "Vegetable Spring Roll",
+      "description": "Rouleau de printemps frit végétarien.",
+      "descriptionEn": "Fried vegetarian spring roll.",
+      "ingredients": [
+        "Chou",
+        "Carotte",
+        "Vermicelles",
+        "Galette de riz"
+      ],
+      "ingredientsEn": [
+        "Cabbage",
+        "Carrot",
+        "Vermicelli",
+        "Rice paper"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "price": "5,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7oe_gviu0j",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Rouleau Printemps Poulet",
+      "nameEn": "Chicken Spring Roll",
+      "description": "Rouleau de printemps frit au poulet et légumes.",
+      "descriptionEn": "Fried spring roll with chicken and vegetables.",
+      "ingredients": [
+        "Poulet",
+        "Légumes",
+        "Vermicelles",
+        "Galette de riz"
+      ],
+      "ingredientsEn": [
+        "Chicken",
+        "Vegetables",
+        "Vermicelli",
+        "Rice paper"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "price": "6,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_xxlj2h",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Rouleau Printemps Poulet, Crevettes",
+      "nameEn": "Chicken & Shrimp Spring Roll",
+      "description": "Rouleau de printemps frit au poulet et crevettes.",
+      "descriptionEn": "Fried spring roll with chicken and shrimp.",
+      "ingredients": [
+        "Poulet",
+        "Crevette",
+        "Légumes",
+        "Galette de riz"
+      ],
+      "ingredientsEn": [
+        "Chicken",
+        "Shrimp",
+        "Vegetables",
+        "Rice paper"
+      ],
+      "allergens": [
+        "gluten",
+        "crustaces"
+      ],
+      "price": "6,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_0ki7on",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Pad Thaï Poulet ou Bœuf",
+      "nameEn": "Pad Thai Chicken or Beef",
+      "description": "Nouilles de riz sautées façon pad thaï, cacahuètes concassées et citron vert.",
+      "descriptionEn": "Stir-fried rice noodles Pad Thai style, crushed peanuts and lime.",
+      "ingredients": [
+        "Nouilles de riz",
+        "Poulet ou bœuf",
+        "Œuf",
+        "Cacahuètes",
+        "Citron vert"
+      ],
+      "ingredientsEn": [
+        "Rice noodles",
+        "Chicken or beef",
+        "Egg",
+        "Peanuts",
+        "Lime"
+      ],
+      "allergens": [
+        "arachides",
+        "oeufs",
+        "poissons"
+      ],
+      "price": "15,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_6nviei",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Pad Thaï Crevette",
+      "nameEn": "Pad Thai Shrimp",
+      "description": "Nouilles de riz sautées façon pad thaï à la crevette, cacahuètes et citron vert.",
+      "descriptionEn": "Stir-fried rice noodles Pad Thai style with shrimp, peanuts and lime.",
+      "ingredients": [
+        "Nouilles de riz",
+        "Crevette",
+        "Œuf",
+        "Cacahuètes",
+        "Citron vert"
+      ],
+      "ingredientsEn": [
+        "Rice noodles",
+        "Shrimp",
+        "Egg",
+        "Peanuts",
+        "Lime"
+      ],
+      "allergens": [
+        "arachides",
+        "oeufs",
+        "poissons",
+        "crustaces"
+      ],
+      "price": "16,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_62wql3",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Riz Loc Lac (+0,50 œuf en option)",
+      "nameEn": "Loc Lac Rice (+0.50 egg optional)",
+      "description": "Bœuf sauté mariné façon loc lac, riz et salade, œuf au plat en option.",
+      "descriptionEn": "Sautéed marinated beef Loc Lac style, rice and salad, fried egg optional.",
+      "ingredients": [
+        "Bœuf",
+        "Riz",
+        "Salade",
+        "Tomate",
+        "Œuf (option)"
+      ],
+      "ingredientsEn": [
+        "Beef",
+        "Rice",
+        "Salad",
+        "Tomato",
+        "Egg (optional)"
+      ],
+      "allergens": [
+        "oeufs"
+      ],
+      "price": "14,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_z6h8g2",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Brochettes poulet yakitori sur riz jaune (x3)",
+      "nameEn": "Chicken Yakitori Skewers on Yellow Rice (x3)",
+      "description": "Brochettes de poulet yakitori grillées, riz jaune parfumé.",
+      "descriptionEn": "Grilled chicken yakitori skewers, fragrant yellow rice.",
+      "ingredients": [
+        "Poulet",
+        "Sauce yakitori",
+        "Riz jaune"
+      ],
+      "ingredientsEn": [
+        "Chicken",
+        "Yakitori sauce",
+        "Yellow rice"
+      ],
+      "allergens": [
+        "soja",
+        "gluten"
+      ],
+      "price": "11,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_9tgjdl",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Brochettes bœuf fromage sur riz jaune (x3)",
+      "nameEn": "Beef & Cheese Skewers on Yellow Rice (x3)",
+      "description": "Brochettes de bœuf et fromage grillées, riz jaune.",
+      "descriptionEn": "Grilled beef and cheese skewers, yellow rice.",
+      "ingredients": [
+        "Bœuf",
+        "Fromage",
+        "Riz jaune"
+      ],
+      "ingredientsEn": [
+        "Beef",
+        "Cheese",
+        "Yellow rice"
+      ],
+      "allergens": [
+        "lait"
+      ],
+      "price": "11,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_81x9p1",
+      "categoryId": "cat_mt7et7od_xs5227",
+      "name": "Brochettes galette de poisson épicé sur riz jaune (x3)",
+      "nameEn": "Spicy Fish Cake Skewers on Yellow Rice (x3)",
+      "description": "Brochettes de galette de poisson épicée, riz jaune.",
+      "descriptionEn": "Skewers of spicy fish cake, yellow rice.",
+      "ingredients": [
+        "Galette de poisson",
+        "Épices",
+        "Riz jaune"
+      ],
+      "ingredientsEn": [
+        "Fish cake",
+        "Spices",
+        "Yellow rice"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "11,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_u9z8sc",
+      "categoryId": "cat_mt7et7od_82betz",
+      "name": "Fried Chicken",
+      "nameEn": "",
+      "description": "California roll au poulet croustillant, avocat, laitue, mayonnaise, sésame.",
+      "descriptionEn": "California roll with crispy chicken, avocado, lettuce, mayonnaise, sesame.",
+      "ingredients": [
+        "Poulet frit",
+        "Avocat",
+        "Laitue",
+        "Mayonnaise",
+        "Sésame"
+      ],
+      "ingredientsEn": [
+        "Fried chicken",
+        "Avocado",
+        "Lettuce",
+        "Mayonnaise",
+        "Sesame"
+      ],
+      "allergens": [
+        "gluten",
+        "oeufs",
+        "sesame"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_ljx0vg",
+      "categoryId": "cat_mt7et7od_82betz",
+      "name": "Saumon",
+      "nameEn": "Salmon",
+      "description": "California roll au saumon, avocat, fromage frais, sésame.",
+      "descriptionEn": "California roll with salmon, avocado, cream cheese, sesame.",
+      "ingredients": [
+        "Saumon",
+        "Avocat",
+        "Fromage frais",
+        "Sésame"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Avocado",
+        "Cream cheese",
+        "Sesame"
+      ],
+      "allergens": [
+        "poissons",
+        "lait",
+        "sesame"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_20iau5",
+      "categoryId": "cat_mt7et7od_82betz",
+      "name": "Thon Cuit",
+      "nameEn": "Cooked Tuna",
+      "description": "California roll au thon cuit, avocat, pomme verte, zeste de citron, mayonnaise, sésame.",
+      "descriptionEn": "California roll with cooked tuna, avocado, green apple, lemon zest, mayonnaise, sesame.",
+      "ingredients": [
+        "Thon cuit",
+        "Avocat",
+        "Pomme verte",
+        "Citron",
+        "Mayonnaise",
+        "Sésame"
+      ],
+      "ingredientsEn": [
+        "Cooked tuna",
+        "Avocado",
+        "Green apple",
+        "Lemon",
+        "Mayonnaise",
+        "Sesame"
+      ],
+      "allergens": [
+        "poissons",
+        "oeufs",
+        "sesame"
+      ],
+      "price": "10,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_xyjvx3",
+      "categoryId": "cat_mt7et7od_82betz",
+      "name": "Crevette Tempura",
+      "nameEn": "Tempura Shrimp",
+      "description": "California roll à la crevette tempura, avocat, masago.",
+      "descriptionEn": "California roll with tempura shrimp, avocado, masago.",
+      "ingredients": [
+        "Crevette tempura",
+        "Avocat",
+        "Masago"
+      ],
+      "ingredientsEn": [
+        "Tempura shrimp",
+        "Avocado",
+        "Masago"
+      ],
+      "allergens": [
+        "crustaces",
+        "gluten",
+        "poissons"
+      ],
+      "price": "11,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_xp5lpt",
+      "categoryId": "cat_mt7et7od_82betz",
+      "name": "Veggie",
+      "nameEn": "",
+      "description": "California roll végétarien, avocat, fromage frais, sésame.",
+      "descriptionEn": "Vegetarian California roll, avocado, cream cheese, sesame.",
+      "ingredients": [
+        "Avocat",
+        "Fromage frais",
+        "Sésame"
+      ],
+      "ingredientsEn": [
+        "Avocado",
+        "Cream cheese",
+        "Sesame"
+      ],
+      "allergens": [
+        "lait",
+        "sesame"
+      ],
+      "price": "9,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_a140pt",
+      "categoryId": "cat_mt7et7od_97ap8v",
+      "name": "Dragon Rolls",
+      "nameEn": "",
+      "description": "Crevette tempura, avocat, asperge, oignons frits, sauce teriyaki, sésame.",
+      "descriptionEn": "Tempura shrimp, avocado, asparagus, crispy onions, teriyaki sauce, sesame.",
+      "ingredients": [
+        "Crevette tempura",
+        "Avocat",
+        "Asperge",
+        "Oignons frits",
+        "Sauce teriyaki",
+        "Sésame"
+      ],
+      "ingredientsEn": [
+        "Tempura shrimp",
+        "Avocado",
+        "Asparagus",
+        "Crispy onions",
+        "Teriyaki sauce",
+        "Sesame"
+      ],
+      "allergens": [
+        "crustaces",
+        "gluten",
+        "soja",
+        "sesame"
+      ],
+      "price": "13,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_5fjcj7",
+      "categoryId": "cat_mt7et7od_97ap8v",
+      "name": "Rock'n Rolls",
+      "nameEn": "",
+      "description": "Saumon, avocat, sauce teriyaki, asperge, chips épicé.",
+      "descriptionEn": "Salmon, avocado, teriyaki sauce, asparagus, spicy chips.",
+      "ingredients": [
+        "Saumon",
+        "Avocat",
+        "Sauce teriyaki",
+        "Asperge",
+        "Chips épicé"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Avocado",
+        "Teriyaki sauce",
+        "Asparagus",
+        "Spicy chips"
+      ],
+      "allergens": [
+        "poissons",
+        "soja"
+      ],
+      "price": "12,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_hphgg9",
+      "categoryId": "cat_mt7et7od_97ap8v",
+      "name": "Crispy Chicken",
+      "nameEn": "",
+      "description": "Poulet frit, avocat, sauce épicée, oignons frits, sésame, asperge.",
+      "descriptionEn": "Fried chicken, avocado, spicy sauce, crispy onions, sesame, asparagus.",
+      "ingredients": [
+        "Poulet frit",
+        "Avocat",
+        "Sauce épicée",
+        "Oignons frits",
+        "Sésame",
+        "Asperge"
+      ],
+      "ingredientsEn": [
+        "Fried chicken",
+        "Avocado",
+        "Spicy sauce",
+        "Crispy onions",
+        "Sesame",
+        "Asparagus"
+      ],
+      "allergens": [
+        "gluten",
+        "sesame"
+      ],
+      "price": "12,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_g60bdd",
+      "categoryId": "cat_mt7et7od_97ap8v",
+      "name": "Thon Roll",
+      "nameEn": "Tuna Roll",
+      "description": "Crevette tempura, thon, avocat, sauce spicy, asperge.",
+      "descriptionEn": "Tempura shrimp, tuna, avocado, spicy sauce, asparagus.",
+      "ingredients": [
+        "Crevette tempura",
+        "Thon",
+        "Avocat",
+        "Sauce spicy",
+        "Asperge"
+      ],
+      "ingredientsEn": [
+        "Tempura shrimp",
+        "Tuna",
+        "Avocado",
+        "Spicy sauce",
+        "Asparagus"
+      ],
+      "allergens": [
+        "crustaces",
+        "poissons",
+        "gluten"
+      ],
+      "price": "13,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_k8eacw",
+      "categoryId": "cat_mt7et7od_97ap8v",
+      "name": "Mix Roll",
+      "nameEn": "",
+      "description": "Saumon, thon, crabe, avocat, piment, asperge.",
+      "descriptionEn": "Salmon, tuna, crab, avocado, chili, asparagus.",
+      "ingredients": [
+        "Saumon",
+        "Thon",
+        "Crabe",
+        "Avocat",
+        "Piment",
+        "Asperge"
+      ],
+      "ingredientsEn": [
+        "Salmon",
+        "Tuna",
+        "Crab",
+        "Avocado",
+        "Chili",
+        "Asparagus"
+      ],
+      "allergens": [
+        "poissons",
+        "crustaces"
+      ],
+      "price": "13,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_fsg6a9",
+      "categoryId": "cat_mt7et7od_97ap8v",
+      "name": "Bœuf ou Saumon Tataki",
+      "nameEn": "Beef or Salmon Tataki",
+      "description": "Tataki de bœuf ou de saumon, avocat, carotte, poivron.",
+      "descriptionEn": "Seared beef or salmon tataki, avocado, carrot, bell pepper.",
+      "ingredients": [
+        "Bœuf ou saumon",
+        "Avocat",
+        "Carotte",
+        "Poivron"
+      ],
+      "ingredientsEn": [
+        "Beef or salmon",
+        "Avocado",
+        "Carrot",
+        "Bell pepper"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "13,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_2jj16b",
+      "categoryId": "cat_mt7et7od_9l9sxv",
+      "name": "Chirashi Mariné",
+      "nameEn": "Marinated Chirashi",
+      "description": "Bol de riz vinaigré et poissons marinés du chef.",
+      "descriptionEn": "Bowl of vinegared rice topped with the chef's marinated fish.",
+      "ingredients": [
+        "Riz vinaigré",
+        "Poissons marinés",
+        "Sésame"
+      ],
+      "ingredientsEn": [
+        "Vinegared rice",
+        "Marinated fish",
+        "Sesame"
+      ],
+      "allergens": [
+        "poissons",
+        "sesame"
+      ],
+      "price": "16,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_1ryxzs",
+      "categoryId": "cat_mt7et7od_9l9sxv",
+      "name": "Chirashi Saumon",
+      "nameEn": "Salmon Chirashi",
+      "description": "Bol de riz vinaigré et tranches de saumon frais.",
+      "descriptionEn": "Bowl of vinegared rice topped with fresh salmon slices.",
+      "ingredients": [
+        "Riz vinaigré",
+        "Saumon"
+      ],
+      "ingredientsEn": [
+        "Vinegared rice",
+        "Salmon"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "15,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_269i0i",
+      "categoryId": "cat_mt7et7od_9l9sxv",
+      "name": "Chirashi Saumon Avocat",
+      "nameEn": "Salmon & Avocado Chirashi",
+      "description": "Bol de riz vinaigré, saumon et avocat.",
+      "descriptionEn": "Bowl of vinegared rice with salmon and avocado.",
+      "ingredients": [
+        "Riz vinaigré",
+        "Saumon",
+        "Avocat"
+      ],
+      "ingredientsEn": [
+        "Vinegared rice",
+        "Salmon",
+        "Avocado"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "16,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_ycoc2s",
+      "categoryId": "cat_mt7et7od_9l9sxv",
+      "name": "Chirashi Saumon, Thon",
+      "nameEn": "Salmon & Tuna Chirashi",
+      "description": "Bol de riz vinaigré, saumon et thon.",
+      "descriptionEn": "Bowl of vinegared rice with salmon and tuna.",
+      "ingredients": [
+        "Riz vinaigré",
+        "Saumon",
+        "Thon"
+      ],
+      "ingredientsEn": [
+        "Vinegared rice",
+        "Salmon",
+        "Tuna"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "16,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_ujqjcd",
+      "categoryId": "cat_mt7et7od_9l9sxv",
+      "name": "Donburi Saumon",
+      "nameEn": "Salmon Donburi",
+      "description": "Bol de riz chaud, saumon et légumes de saison.",
+      "descriptionEn": "Bowl of warm rice with salmon and seasonal vegetables.",
+      "ingredients": [
+        "Riz",
+        "Saumon",
+        "Légumes"
+      ],
+      "ingredientsEn": [
+        "Rice",
+        "Salmon",
+        "Vegetables"
+      ],
+      "allergens": [
+        "poissons"
+      ],
+      "price": "16,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_6476od",
+      "categoryId": "cat_mt7et7od_9l9sxv",
+      "name": "Poke Bowl Saumon Teriyaki",
+      "nameEn": "Teriyaki Salmon Poke Bowl",
+      "description": "Bol de riz, saumon mariné teriyaki, légumes frais.",
+      "descriptionEn": "Rice bowl with teriyaki-marinated salmon and fresh vegetables.",
+      "ingredients": [
+        "Riz",
+        "Saumon",
+        "Sauce teriyaki",
+        "Légumes"
+      ],
+      "ingredientsEn": [
+        "Rice",
+        "Salmon",
+        "Teriyaki sauce",
+        "Vegetables"
+      ],
+      "allergens": [
+        "poissons",
+        "soja"
+      ],
+      "price": "16,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_ct1bn5",
+      "categoryId": "cat_mt7et7od_9l9sxv",
+      "name": "Poke Bowl Crevette Tempura",
+      "nameEn": "Tempura Shrimp Poke Bowl",
+      "description": "Bol de riz, crevette tempura, légumes croquants.",
+      "descriptionEn": "Rice bowl with tempura shrimp and crunchy vegetables.",
+      "ingredients": [
+        "Riz",
+        "Crevette tempura",
+        "Légumes"
+      ],
+      "ingredientsEn": [
+        "Rice",
+        "Tempura shrimp",
+        "Vegetables"
+      ],
+      "allergens": [
+        "crustaces",
+        "gluten"
+      ],
+      "price": "16,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_6vm06v",
+      "categoryId": "cat_mt7et7od_9l9sxv",
+      "name": "Poke Bowl Poulet",
+      "nameEn": "Chicken Poke Bowl",
+      "description": "Bol de riz, poulet mariné, légumes frais.",
+      "descriptionEn": "Rice bowl with marinated chicken and fresh vegetables.",
+      "ingredients": [
+        "Riz",
+        "Poulet",
+        "Légumes"
+      ],
+      "ingredientsEn": [
+        "Rice",
+        "Chicken",
+        "Vegetables"
+      ],
+      "allergens": [],
+      "price": "15,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_1std0u",
+      "categoryId": "cat_mt7et7od_137lpv",
+      "name": "Box for 2 (44 pièces)",
+      "nameEn": "",
+      "description": "Grande box à partager à deux, 44 pièces assorties.",
+      "descriptionEn": "Large sharing box for two, 44 assorted pieces.",
+      "ingredients": [
+        "Sélection de sushi et rolls du chef"
+      ],
+      "ingredientsEn": [
+        "Chef's selection of sushi and rolls"
+      ],
+      "allergens": [
+        "poissons",
+        "crustaces",
+        "gluten"
+      ],
+      "price": "48,00",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_7okiof",
+      "categoryId": "cat_mt7et7od_137lpv",
+      "name": "Box Funny (42 pièces)",
+      "nameEn": "",
+      "description": "Box à partager, 42 pièces, sélection gourmande de la maison.",
+      "descriptionEn": "Sharing box, 42 pieces, the house's generous selection.",
+      "ingredients": [
+        "Sélection de sushi et rolls du chef"
+      ],
+      "ingredientsEn": [
+        "Chef's selection of sushi and rolls"
+      ],
+      "allergens": [
+        "poissons",
+        "crustaces",
+        "gluten"
+      ],
+      "price": "38,00",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_i3nw3n",
+      "categoryId": "cat_mt7et7od_i6q56m",
+      "name": "Salade de Fruits",
+      "nameEn": "Fruit Salad",
+      "description": "Fruits frais de saison coupés minute.",
+      "descriptionEn": "Fresh seasonal fruit, cut to order.",
+      "ingredients": [
+        "Fruits de saison"
+      ],
+      "ingredientsEn": [
+        "Seasonal fruit"
+      ],
+      "allergens": [],
+      "price": "5,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_bfdbhp",
+      "categoryId": "cat_mt7et7od_i6q56m",
+      "name": "Moelleux Chocolat",
+      "nameEn": "Chocolate Fondant",
+      "description": "Moelleux au chocolat, cœur coulant.",
+      "descriptionEn": "Chocolate fondant cake with a molten centre.",
+      "ingredients": [
+        "Chocolat",
+        "Beurre",
+        "Œuf",
+        "Farine"
+      ],
+      "ingredientsEn": [
+        "Chocolate",
+        "Butter",
+        "Egg",
+        "Flour"
+      ],
+      "allergens": [
+        "gluten",
+        "oeufs",
+        "lait"
+      ],
+      "price": "3,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_yimb78",
+      "categoryId": "cat_mt7et7od_i6q56m",
+      "name": "Mochis Glacés (1 pièce)",
+      "nameEn": "Ice Cream Mochi (1 piece)",
+      "description": "Mochi glacé, parfum du moment.",
+      "descriptionEn": "Ice cream mochi, seasonal flavour.",
+      "ingredients": [
+        "Pâte de riz gluant",
+        "Glace"
+      ],
+      "ingredientsEn": [
+        "Glutinous rice dough",
+        "Ice cream"
+      ],
+      "allergens": [
+        "lait"
+      ],
+      "price": "2,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_aqp68b",
+      "categoryId": "cat_mt7et7od_wxqzdi",
+      "name": "Bière Japonaise",
+      "nameEn": "Japanese Beer",
+      "description": "Bière japonaise, servie fraîche.",
+      "descriptionEn": "Japanese beer, served chilled.",
+      "ingredients": [
+        "Bière"
+      ],
+      "ingredientsEn": [
+        "Beer"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "price": "4,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_4u07gx",
+      "categoryId": "cat_mt7et7od_wxqzdi",
+      "name": "Bière d'Asie",
+      "nameEn": "Asian Beer",
+      "description": "Bière asiatique, servie fraîche.",
+      "descriptionEn": "Asian beer, served chilled.",
+      "ingredients": [
+        "Bière"
+      ],
+      "ingredientsEn": [
+        "Beer"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "price": "4,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_1503ex",
+      "categoryId": "cat_mt7et7od_8bvmk0",
+      "name": "Eau Gazeuse",
+      "nameEn": "Sparkling Water",
+      "description": "Eau gazeuse.",
+      "descriptionEn": "Sparkling water.",
+      "ingredients": [
+        "Eau gazeuse"
+      ],
+      "ingredientsEn": [
+        "Sparkling water"
+      ],
+      "allergens": [],
+      "price": "2,50",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_2o8xqe",
+      "categoryId": "cat_mt7et7od_8bvmk0",
+      "name": "Jus Exotique",
+      "nameEn": "Exotic Fruit Juice",
+      "description": "Jus de fruits exotiques.",
+      "descriptionEn": "Exotic fruit juice.",
+      "ingredients": [
+        "Jus de fruits"
+      ],
+      "ingredientsEn": [
+        "Fruit juice"
+      ],
+      "allergens": [],
+      "price": "3,90",
+      "photos": []
+    },
+    {
+      "id": "item_mt7et7of_jfb1pk",
+      "categoryId": "cat_mt7et7od_8bvmk0",
+      "name": "Soda",
+      "nameEn": "",
+      "description": "Soda au choix.",
+      "descriptionEn": "Soft drink of your choice.",
+      "ingredients": [
+        "Soda"
+      ],
+      "ingredientsEn": [
+        "Soda"
+      ],
+      "allergens": [],
+      "price": "2,30",
+      "photos": []
+    }
+  ],
+  "news": [
+    {
+      "id": "news_mt7et7of_ufsisv",
+      "date": "2026-08-24",
+      "title": "La carte d'automne arrive en salle",
+      "content": "Nouveaux plats de saison, retour du curry de courge et d'un dessert au yuzu. Réservation conseillée le week-end."
+    },
+    {
+      "id": "news_mt7et7ot_v4gtbw",
+      "date": "2026-08-12",
+      "title": "Soirée dégustation chef",
+      "content": "Une soirée en cinq services autour des accords thé/plats, sur réservation, places limitées."
+    }
+  ],
+  "allergens": [
+    {
+      "code": "gluten",
+      "label": "Gluten",
+      "labelEn": "Gluten"
+    },
+    {
+      "code": "crustaces",
+      "label": "Crustacés",
+      "labelEn": "Crustaceans"
+    },
+    {
+      "code": "oeufs",
+      "label": "Œufs",
+      "labelEn": "Eggs"
+    },
+    {
+      "code": "poissons",
+      "label": "Poissons",
+      "labelEn": "Fish"
+    },
+    {
+      "code": "arachides",
+      "label": "Arachides",
+      "labelEn": "Peanuts"
+    },
+    {
+      "code": "soja",
+      "label": "Soja",
+      "labelEn": "Soybeans"
+    },
+    {
+      "code": "lait",
+      "label": "Lait",
+      "labelEn": "Milk"
+    },
+    {
+      "code": "fruitsacoque",
+      "label": "Fruits à coque",
+      "labelEn": "Tree nuts"
+    },
+    {
+      "code": "celeri",
+      "label": "Céleri",
+      "labelEn": "Celery"
+    },
+    {
+      "code": "moutarde",
+      "label": "Moutarde",
+      "labelEn": "Mustard"
+    },
+    {
+      "code": "sesame",
+      "label": "Sésame",
+      "labelEn": "Sesame"
+    },
+    {
+      "code": "sulfites",
+      "label": "Sulfites",
+      "labelEn": "Sulphites"
+    },
+    {
+      "code": "lupin",
+      "label": "Lupin",
+      "labelEn": "Lupin"
+    },
+    {
+      "code": "mollusques",
+      "label": "Mollusques",
+      "labelEn": "Molluscs"
+    }
+  ]
+}

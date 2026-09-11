@@ -1,0 +1,67 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// Ligne unique de configuration du site + compte admin (pas de multi-utilisateurs).
+model Config {
+  id                  Int       @id @default(1)
+  name                String
+  tagline             String
+  intro               String
+  story               String
+  address             String
+  phone               String
+  email               String
+  hours               String
+  instagramUrl        String?
+  facebookUrl         String?
+  orderUrl            String?
+  halalNote           String?
+  adminPasswordHash   String
+  mustChangePassword  Boolean   @default(true)
+  failedLoginAttempts Int       @default(0)
+  lockedUntil         DateTime?
+  updatedAt           DateTime  @updatedAt
+}
+
+model Category {
+  id       String     @id @default(cuid())
+  name     String
+  nameEn   String?
+  order    Int        @default(0)
+  parentId String?
+  parent   Category?  @relation("CategoryChildren", fields: [parentId], references: [id], onDelete: Cascade)
+  children Category[] @relation("CategoryChildren")
+  items    Item[]
+}
+
+model Item {
+  id            String   @id @default(cuid())
+  categoryId    String
+  category      Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  name          String
+  nameEn        String?
+  description   String?
+  descriptionEn String?
+  ingredients   Json     @default("[]")
+  ingredientsEn Json     @default("[]")
+  allergens     Json     @default("[]")
+  price         String?
+  photos        Json     @default("[]")
+  order         Int      @default(0)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model News {
+  id        String   @id @default(cuid())
+  date      DateTime
+  title     String
+  content   String
+  createdAt DateTime @default(now())
+}
