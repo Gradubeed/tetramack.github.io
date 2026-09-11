@@ -3,6 +3,8 @@ import { getPublicConfig } from "@/lib/publicConfig";
 import Header from "@/components/Header";
 import ConditionalFooter from "@/components/ConditionalFooter";
 
+export const dynamic = "force-dynamic";
+
 export const metadata = {
   title: "Tetra Mack & Co — Asian Fusion Food",
   description:
